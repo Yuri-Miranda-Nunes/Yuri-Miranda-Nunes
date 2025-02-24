@@ -1,16 +1,48 @@
-## Hi there 👋
+### 👋 Olá! Eu sou Yuri Miranda Nunes
 
-<!--
-**Yuri-Miranda-Nunes/Yuri-Miranda-Nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Desenvolvedor de Sistemas**  
+Atuo na área de TI, com foco em C#. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades para criar soluções inovadoras e eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas que utilizo:
+
+- **Linguagens**: 
+  - Python, SQL, C#, html, CSS e JavaScript
+- **Banco de Dados**: 
+  - MySQL
+- **Outras Ferramentas**: 
+  - Git
+
+---
+
+### 🎯 Projetos Recentes:
+
+1. **[Critical One]**  
+   _Pequeno projeto pessoal._  
+---
+
+### 📚 Aprendizado Contínuo:
+
+Atualmente estou estudando/aperfeiçoando:  
+- C#
+- Html
+- CSS
+- JS
+---
+
+### 🌱 Contribuições:
+
+Gosto de contribuir para projetos open-source e colaborar com a comunidade. Se você tiver algum projeto interessante ou precisar de ajuda, sinta-se à vontade para entrar em contato!
+
+---
+
+### 📫 Como me encontrar:
+
+- **Email**: yurimirandanunes1@gmail.com  
+
+---
+
+### 🤝 Colaboração:
+
+Estou aberto(a) a novas oportunidades e colaborações! Se você quiser conversar sobre algum projeto, trocar ideias ou simplesmente bater um papo sobre tecnologia, fique à vontade para me contatar.
