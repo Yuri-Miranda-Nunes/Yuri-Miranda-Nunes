@@ -33,7 +33,7 @@ Atualmente estou estudando/aperfeiçoando:
 
 ### 🌱 Contribuições:
 
-Gosto de contribuir para projetos open-source e colaborar com a comunidade. Se você tiver algum projeto interessante ou precisar de ajuda, sinta-se à vontade para entrar em contato!
+Gosto de contribuir para projetos open-source, colaborar com a comunidade e ideias de startup. Se você tiver algum projeto interessante ou precisar de ajuda, sinta-se à vontade para entrar em contato!
 
 ---
 
