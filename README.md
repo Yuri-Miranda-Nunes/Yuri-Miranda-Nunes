@@ -29,6 +29,7 @@ Atualmente estou estudando/aperfeiçoando:
 - Html
 - CSS
 - JS
+- SQL
 ---
 
 ### 🌱 Contribuições:
